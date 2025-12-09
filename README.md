@@ -1,8 +1,4 @@
-# Priya Sharma
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="wave-gif" width="220"/>
-</p>
+                                                                                                                 # Priya Sharma
 
 > **Data Analyst · Data Scientist · AI Agent Engineer**
 
@@ -10,13 +6,7 @@ Hi — I’m **Priya Sharma** 👋
 
 I build data-driven products, design ML models, and prototype intelligent agents that help automate workflows. I love turning messy data into clear insights and building reproducible AI systems.
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="wave-gif" width="220"/>
-</p>
-
-> **Data Analyst · Data Scientist · AI Agent Engineer**
+**Data Analyst · Data Scientist · AI Agent Engineer**
 
 Hi — I’m **Priya Sharma** 👋
 
